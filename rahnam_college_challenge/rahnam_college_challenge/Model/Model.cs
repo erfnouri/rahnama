@@ -5,16 +5,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace rahnam_college_challenge.model
+namespace rahnam_college_challenge.Model
 {
     static internal class Model
     {
-        static public Dictionary<string, Dictionary<string, string>> collection;
-        static private string currentDb = "default";
-        public static Dictionary<string, string> getCurrentDB()
+        static public Dictionary<string, Dictionary<string, string>> DB;
+        static private string currentPlayer = "default";
+        static public SortedList<string, int> score;
+        public static Dictionary<string, string> getcurrentplayer()
         {   
-            collection.TryGetValue(currentDb, out var result);
+            DB.TryGetValue(currentPlayer, out var result);
+
             return result;
         }
+
     }
 }

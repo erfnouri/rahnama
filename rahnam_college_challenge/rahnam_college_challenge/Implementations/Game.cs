@@ -19,19 +19,40 @@ namespace rahnam_college_challenge
                 return false;
         }
 
-        bool IGame.checkIfExist(string word)
+        int IGame.checkIfExist(string user, string filed, string word)
         {
-            return true;
+            var DB = Model.Model.DB;
+            foreach (KeyValuePair<string, Dictionary<string, string>> entry in DB)
+            {
+                if(entry.Key != user)
+                {
+                    entry.Value.TryGetValue(filed, out var value);
+                    if (value == word)
+                    {
+                        return 5;
+                    }
+                }
+            }
+            return 10;
         }
 
-        SortedList<int, string> IGame.returnScore()
+        SortedList<string, int> IGame.returnScore()
         {
-            throw new NotImplementedException();
+            var result = Model.Model.score;
+            return result;
         }
 
-        bool IGame.setScore(string user, string filed, int score)
+        bool IGame.setScore(string user, int score)
         {
-            throw new NotImplementedException();
+            try
+            {
+                Model.Model.score[user] += score;
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
         }
 
     }

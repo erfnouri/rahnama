@@ -8,9 +8,9 @@ namespace rahnam_college_challenge
 {
     public interface IGame
     {
-        bool checkFirstDigit(string dbName);
-        bool checkIfExist(string dbName);
-        bool setScore(string user, string filed , int score);
-        SortedList<int, string>returnScore();
+        bool checkFirstDigit(string word);
+        int checkIfExist(string user, string filed, string word);
+        bool setScore(string user, int score);
+        SortedList<string, int>returnScore();
     }
 }
