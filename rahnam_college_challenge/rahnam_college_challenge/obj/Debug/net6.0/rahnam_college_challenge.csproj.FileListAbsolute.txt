@@ -1,0 +1,15 @@
+C:\Users\e.nouri\source\repos\rahnam_college_challenge\rahnam_college_challenge\bin\Debug\net6.0\rahnam_college_challenge.exe
+C:\Users\e.nouri\source\repos\rahnam_college_challenge\rahnam_college_challenge\bin\Debug\net6.0\rahnam_college_challenge.deps.json
+C:\Users\e.nouri\source\repos\rahnam_college_challenge\rahnam_college_challenge\bin\Debug\net6.0\rahnam_college_challenge.runtimeconfig.json
+C:\Users\e.nouri\source\repos\rahnam_college_challenge\rahnam_college_challenge\bin\Debug\net6.0\rahnam_college_challenge.dll
+C:\Users\e.nouri\source\repos\rahnam_college_challenge\rahnam_college_challenge\bin\Debug\net6.0\rahnam_college_challenge.pdb
+C:\Users\e.nouri\source\repos\rahnam_college_challenge\rahnam_college_challenge\obj\Debug\net6.0\rahnam_college_challenge.csproj.AssemblyReference.cache
+C:\Users\e.nouri\source\repos\rahnam_college_challenge\rahnam_college_challenge\obj\Debug\net6.0\rahnam_college_challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.nouri\source\repos\rahnam_college_challenge\rahnam_college_challenge\obj\Debug\net6.0\rahnam_college_challenge.AssemblyInfoInputs.cache
+C:\Users\e.nouri\source\repos\rahnam_college_challenge\rahnam_college_challenge\obj\Debug\net6.0\rahnam_college_challenge.AssemblyInfo.cs
+C:\Users\e.nouri\source\repos\rahnam_college_challenge\rahnam_college_challenge\obj\Debug\net6.0\rahnam_college_challenge.csproj.CoreCompileInputs.cache
+C:\Users\e.nouri\source\repos\rahnam_college_challenge\rahnam_college_challenge\obj\Debug\net6.0\rahnam_college_challenge.dll
+C:\Users\e.nouri\source\repos\rahnam_college_challenge\rahnam_college_challenge\obj\Debug\net6.0\refint\rahnam_college_challenge.dll
+C:\Users\e.nouri\source\repos\rahnam_college_challenge\rahnam_college_challenge\obj\Debug\net6.0\rahnam_college_challenge.pdb
+C:\Users\e.nouri\source\repos\rahnam_college_challenge\rahnam_college_challenge\obj\Debug\net6.0\rahnam_college_challenge.genruntimeconfig.cache
+C:\Users\e.nouri\source\repos\rahnam_college_challenge\rahnam_college_challenge\obj\Debug\net6.0\ref\rahnam_college_challenge.dll

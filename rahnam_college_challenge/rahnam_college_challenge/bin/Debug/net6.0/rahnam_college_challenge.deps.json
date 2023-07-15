@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "rahnam_college_challenge/1.0.0": {
+        "runtime": {
+          "rahnam_college_challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rahnam_college_challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
